@@ -1,0 +1,9 @@
+{
+	"name": "azuredfspotifyms",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe55e164-1c5b-4f11-9528-710d0872e11f",
+		"tenantId": "5cb1146e-a866-41dd-9ad7-aa89d38cd8e1"
+	}
+}
