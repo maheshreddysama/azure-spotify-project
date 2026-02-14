@@ -275,10 +275,6 @@
 								"secureInput": false
 							},
 							"userProperties": [],
-							"linkedServiceName": {
-								"referenceName": "sqllink",
-								"type": "LinkedServiceReference"
-							},
 							"typeProperties": {
 								"scripts": [
 									{
